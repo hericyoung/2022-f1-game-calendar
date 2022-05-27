@@ -1,5 +1,10 @@
 # 2022 F1 赛程日历订阅
 
+## 效果示范
+
+<img src="http://img.hericyoung.tech/uPic/20220527132710IMG_2892B1BE0242-1.jpeg" width="200"/>
+
+---
 ## 日历订阅操作
 
 ### iOS
