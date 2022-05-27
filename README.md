@@ -6,15 +6,15 @@
 
 1. 打开 iPhone 或 iPad 上的”日历”APP，点击下方正中的“日历”按钮
 
-![http://img.hericyoung.tech/uPic/IMG_814720220527130056.jpg](http://img.hericyoung.tech/uPic/IMG_814720220527130056.jpg)
+ <img src="http://img.hericyoung.tech/uPic/IMG_814720220527130056.jpg" width="200"/>
 
-1. 点击左下角“添加日历”，选择“添加订阅日历”
+2. 点击左下角“添加日历”，选择“添加订阅日历”
 
-![http://img.hericyoung.tech/uPic/20220527130521IMG_8148.jpg](http://img.hericyoung.tech/uPic/20220527130521IMG_8148.jpg)
+ <img src="http://img.hericyoung.tech/uPic/20220527130521IMG_8148.jpg" width="200"/>
 
-1. 填写 URL，点击订阅，后面按自己需要修改标题或者其他设置，最后点击添加即可
+3. 填写 URL，点击订阅，后面按自己需要修改标题或者其他设置，最后点击添加即可
 
-![http://img.hericyoung.tech/uPic/20220527131118ios-cal-sub.png](http://img.hericyoung.tech/uPic/20220527131118ios-cal-sub.png)
+ <img src="http://img.hericyoung.tech/uPic/20220527131118ios-cal-sub.png" width="200"/>
 
 ---
 
@@ -22,9 +22,10 @@
 
 打开“日历”App，点击左上方“文件”并选择“新建日历订阅
 
-![http://img.hericyoung.tech/uPic/20220527130933mac-cal.png](http://img.hericyoung.tech/uPic/20220527130933mac-cal.png)
+ <img src="http://img.hericyoung.tech/uPic/20220527130933mac-cal.png" width="500"/>
 
-![http://img.hericyoung.tech/uPic/20220527130959mac-cal-sub.png](http://img.hericyoung.tech/uPic/20220527130959mac-cal-sub.png)
+ <img src="http://img.hericyoung.tech/uPic/20220527130959mac-cal-sub.png" width="500"/>
+
 
 ---
 
